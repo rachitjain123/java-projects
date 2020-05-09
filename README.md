@@ -1,4 +1,4 @@
-# Java projects implemented with the help of [telusko](telusko.com)
+# Basic Java projects 
 
 ## Technologies used:
 - Java
@@ -10,3 +10,5 @@
 - Spring Security
 - JPA
 - Spring Data
+
+* Implemented with the help of tutorials from [telusko.com](http://telusko.com)
