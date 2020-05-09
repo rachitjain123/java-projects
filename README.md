@@ -1,4 +1,4 @@
-# Basic Java projects 
+# Java projects 
 
 ## Technologies used:
 - Java
@@ -11,4 +11,4 @@
 - JPA
 - Spring Data
 
-* Implemented with the help of tutorials from [telusko.com](http://telusko.com)
+### Implemented with the help of tutorials from [telusko.com](http://telusko.com)
